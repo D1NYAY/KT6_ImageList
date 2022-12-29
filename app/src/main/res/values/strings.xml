@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KT6_ImageList</string>
+    <string name="SelectImage">Выбор фотографий</string>
+    <string name="textSelect">Выберите фотографии</string>
+    <string name="push">push</string>
+    <string name="selectImage">Выберите фотографии</string>
+    <string name="img_selected">Выбранные фотографии</string>
+</resources>
